@@ -1,5 +1,9 @@
 wish u "happy diwali"
 hai hallo
 kn karu chu 
+<<<<<<< HEAD
 my self digambar
+=======
+saidevmalya
+>>>>>>> royal
 
